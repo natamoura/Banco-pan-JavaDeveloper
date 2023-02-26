@@ -1,2 +1,2 @@
 # Banco-pan-JavaDeveloper
-Repositório pra estar enviando o aprendizado do curso da Dio
+Repositório criado para acrescentar os exercicios e estudos do curso de java da Dio.
