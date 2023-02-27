@@ -1,3 +1,4 @@
+package edu.nata.AnatomiaDasClasses;
 public class AnatomiaDasClasses4 {
     public static void main(String[] args) {
         // Identação: É deixar seu codigo de um nivel hierarquico, para melhor compreensão.
